@@ -3,7 +3,8 @@ body {
 }
 
 header {
-    background: #d3d9e2;
+    background: #00177f;
+    color: white;
     font-family:verdana;
     padding: 5px 0px 5px 10px;
 }
@@ -22,7 +23,7 @@ nav ul li {
     border-radius: 99px;
     list-style-type: none;
     display: inline-block;
-    background: #828282;
+    background: #007f21;
     padding: 5px 10px 5px 10px;
     
 }
@@ -31,7 +32,28 @@ nav ul li a {
     color:white;
 }
 p {
-    
-    background:grey;
+    color:white;
+    background:#00177f;
     padding: 5px;
+}
+.Members {
+    color:white;
+    background:#00177f;
+    padding:10px;
+    margin:0px;
+}
+.StoreListings {
+    color:white;
+    background:#00177f;
+    padding:10px;
+    margin:0px;
+}
+a {
+    color:white;
+}
+.NewsLetterLinks {
+    color:white;
+    background:#00177f;
+    padding:10px;
+    margin:0px;
 }
