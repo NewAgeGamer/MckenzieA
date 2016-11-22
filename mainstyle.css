@@ -50,10 +50,14 @@ p {
 }
 a {
     color:white;
+    text-decoration: none;
 }
 .NewsLetterLinks {
     color:white;
     background:#00177f;
     padding:10px;
     margin:0px;
+}
+a: link {
+    text-decoration: none;
 }
